@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm VarshikRajVallala</h1>
+<h1 align="center">Hi 👋, I'm Varshik</h1>
 <h3 align="center">A Master's graduate passionate about WEB Development from India, lives in USA.</h3>
 
 <img align="right" alt="coder" width="350" src="https://user-images.githubusercontent.com/68494604/120436157-39627380-c39c-11eb-89cf-58089fb1032d.gif">
